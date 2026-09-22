@@ -1,0 +1,3 @@
+[submodule "skills/jxp-video-to-text"]
+	path = skills/jxp-video-to-text
+	url = git@github.com:skylerjensen/jxp-video-to-text.git
